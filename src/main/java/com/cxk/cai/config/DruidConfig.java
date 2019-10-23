@@ -1,4 +1,4 @@
-package com.music.joyousmusic.config;
+package com.cxk.cai.config;
 
 import com.alibaba.druid.support.http.StatViewFilter;
 import com.alibaba.druid.support.http.StatViewServlet;
